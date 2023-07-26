@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity, ethersJs, Hardhat, Flutter**
 
-- 📫 How to reach me **princeisrael409@gmail.com**
+- 📫 How to reach me **favour.israel.taiwo@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
