@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/GiyuRengoku?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/GiyuRengoku?logo=twitter&style=for-the-badge" alt="favour" /></a> </p>
 
-- 🔭 I’m currently working on **Messaging app**
+- 🔭 I’m currently working on **A Social App called medly**
 
-- 🌱 I’m currently learning **Solidity, ethersJs, Hardhat, Flutter**
+- 🌱 I’m looking forward to learning **Solidity, ethersJs, Hardhat, Flutter**
 
 - 📫 How to reach me **favour.israel.taiwo@outlook.com**
 
