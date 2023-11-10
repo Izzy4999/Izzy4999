@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/GiyuRengoku?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/GiyuRengoku?logo=twitter&style=for-the-badge" alt="favour" /></a> </p>
 
-- 🔭 I’m currently working on **A Social App called medly**
+- 🔭 Love to write codes
 
-- 🌱 I’m looking forward to learning **Solidity, ethersJs, Hardhat, Flutter**
+- 🌱 I’m looking forward to learning **Solidity, ethersJs, Hardhat**
 
 - 📫 How to reach me **favour.israel.taiwo@outlook.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" /></a><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="typescript" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" /></a><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="typescript" width="40" height="40" /></a><a href="https://flutter.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="typescript" width="40" height="40" /></a>
 
 
 <!---
